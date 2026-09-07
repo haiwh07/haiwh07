@@ -57,7 +57,7 @@
 
 ---
 
-### 📌 Pinned / Notable Repos
+### 📌 Pinned 
 
 - 🔐 [**CTFWriteUp**](https://github.com/haiwh07/CTFWriteUp) — Write-up các bài CTF mình đã giải, chủ yếu mảng pwn.
 
