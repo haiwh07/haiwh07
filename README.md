@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm HaiWH 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Information+Security+Student+%40+KMA;Binary+Exploitation+%7C+Reverse+Engineering;CTF+Player+-+pwn+category;Building+towards+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Information+Security+Student+%40+KMA;Binary+Exploitation;CTF+Player+-+pwn+category;Building+towards+Security+Researcher" alt="Typing SVG" />
 </p>
 
 ---
