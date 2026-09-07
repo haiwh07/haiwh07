@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm HaiWH 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Information+Security+Student+%40+KMA;Binary+Exploitation;CTF+Player+-+pwn+category;Building+towards+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Information+Security+Student+%40+KMA;Binary+Exploitation;CTF+Player+-+pwn+category;Aspiring+Red+Teamer" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 - 🎓 Sinh viên ngành **An toàn thông tin** tại **Học viện Kỹ thuật mật mã (KMA)**
 - 🕵️ Đang tập trung nghiên cứu mảng **Pwnable (Binary Exploitation)** trong CTF
 - 🛠️ Quan tâm đến: Reverse Engineering, Linux Internals, x86/x86-64 Assembly, Memory Corruption, Exploit Development
-- 🚩 Thường xuyên luyện tập trên **pwn.college, picoCTF, Hack The Box, OverTheWire**
-- 🎯 Mục tiêu: trở thành **Security Researcher / Penetration Tester**
+- 🚩 Thường xuyên luyện tập trên **pwn.college, picoCTF, pwnable, Dreamhack**
+- 🎯 Mục tiêu: trở thành **Red Team / Offensive Security / Penetration Tester**
 - 📍 Việt Nam
 
 ---
