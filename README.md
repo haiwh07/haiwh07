@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Sinh viên ngành **An toàn thông tin** tại **Học viện Kỹ thuật mật mã (KMA)**
+- 🎓 Sinh viên ngành **An toàn thông tin** tại **Học viện Kỹ thuật mật mã**
 - 🕵️ Đang tập trung nghiên cứu mảng **Pwnable (Binary Exploitation)** trong CTF
 - 🛠️ Quan tâm đến: Reverse Engineering, Linux Internals, x86/x86-64 Assembly, Memory Corruption, Exploit Development
 - 🚩 Thường xuyên luyện tập trên **pwn.college, picoCTF, pwnable, Dreamhack**
