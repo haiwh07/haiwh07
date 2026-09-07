@@ -59,8 +59,7 @@
 
 ### 📌 Pinned / Notable Repos
 
-- 🔐 [**CTFWriteUp**](https://github.com/haiwh07/CTFWriteUp) — Write-up các bài CTF mình đã giải, chủ yếu mảng pwn/rev
-- 📘 [**neetcode-submissions**](https://github.com/haiwh07/neetcode-submissions) — Bài giải NeetCode.io (rèn tư duy thuật toán)
+- 🔐 [**CTFWriteUp**](https://github.com/haiwh07/CTFWriteUp) — Write-up các bài CTF mình đã giải, chủ yếu mảng pwn.
 
 ---
 
